@@ -1,0 +1,32 @@
+.myinfo{
+    width: 300px;
+    height: 350px;
+    background-color: rgb(96, 182, 30);
+    position:absolute; /*position for center*/
+    left:50%;
+top: 40%;
+    transform: translate(-50%,-50%);
+/*allocate a space on all 4 sides*/
+padding: 10px;
+    border-radius: 30px;
+    box-shadow: -5px 3px  10px ;
+    
+}
+
+
+
+.photo{
+    width: 75px;
+    height: 100px;
+    position: relative;
+left:60%;
+    transform:(-50%);
+    border-radius: 200px;
+
+}
+.deot{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+tr{
+ height: 40px;   
+}
